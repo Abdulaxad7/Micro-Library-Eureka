@@ -1,1 +1,1 @@
-Simple Library in Spring boot using microservices and eureka service registry
+Simple Library in Spring boot using microservices and eureka service registry with mongoDB
