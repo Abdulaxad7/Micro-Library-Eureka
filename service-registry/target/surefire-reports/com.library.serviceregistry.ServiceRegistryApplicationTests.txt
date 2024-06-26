@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.library.serviceregistry.ServiceRegistryApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 2.180 s -- in com.library.serviceregistry.ServiceRegistryApplicationTests
