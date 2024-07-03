@@ -7,9 +7,10 @@ import java.util.Arrays;
 
 @Document(collection = "library")
 @Data
+@NoArgsConstructor
+@AllArgsConstructor
 public class Books {
-    public Books() {
-    }
+   
     private String title;
     private String isbn;
     private String pageCount;
