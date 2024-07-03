@@ -10,6 +10,8 @@ import java.util.Random;
 @Document("user-data")
 @Data
 @Async
+@NoArgsConstructor
+@AllArgsConstructor
 public class UserData {
     public UserData() {}
     private String Firstname;
