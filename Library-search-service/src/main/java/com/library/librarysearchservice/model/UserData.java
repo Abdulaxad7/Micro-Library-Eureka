@@ -9,6 +9,8 @@ import org.springframework.data.mongodb.core.mapping.Document;
 @Data
 @Document(collection = "user-cards")
 @Entity
+@NoArgsConstructor
+@AllArgsConstructor
 public class UserData {
     @Id
     @GeneratedValue(strategy = GenerationType.SEQUENCE)
